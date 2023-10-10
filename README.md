@@ -1,4 +1,5 @@
-# This repo is just a place where I try stuff to see if it works
+# JOOP
+This repo is just a place where I try stuff to see if it works
 
 ## Features
 - a linked list
